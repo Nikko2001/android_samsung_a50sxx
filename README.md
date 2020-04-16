@@ -25,3 +25,7 @@ git clone https://github.com/halcyon441-png/android_samsung_a50sxx.git device/sa
 export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_a50sxx-eng; mka recoveryimage
 ```
 Сompilation result is in ```twrp/out/target/product/a507fn```
+
+
+
+#please note that i'm not ment to build custom recovery. and also the "prebuilt" is just stock, no actions were made to those.
