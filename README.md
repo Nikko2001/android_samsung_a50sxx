@@ -28,4 +28,4 @@ export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_a50sxx-e
 
 
 
-#please note that i'm not ment to build custom recovery. and also the "prebuilt" is just stock, no actions were made to those.
+#please note that i'm not meant to build custom recovery. and also the "prebuilt" is just stock, no actions were made to those.
