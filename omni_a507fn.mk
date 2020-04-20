@@ -13,3 +13,7 @@ PRODUCT_NAME := omni_a507fn
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy A50s
 PRODUCT_MANUFACTURER := Samsung
+# Display Note: Place these flags here only. Getting error (TW_THEME_WARNING_MSG) if placed in BoardConfig.mk
+TARGET_SCREEN_HEIGHT := 2340
+TARGET_SCREEN_WIDTH := 1080
+TW_THEME := portrait_hdpi
